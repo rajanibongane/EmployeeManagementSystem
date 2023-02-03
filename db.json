@@ -1,0 +1,64 @@
+{
+  "employeesData": [
+    {
+      "firstname": "XYZ",
+      "lastname": "W",
+      "birthday": "1997-12-11",
+      "gender": "m",
+      "education": "diploma",
+      "company": "Opcito",
+      "jobExperience": 1,
+      "salary": "",
+      "profile": "Boy.jpg",
+      "id": 6
+    },
+    {
+      "firstname": "Rajani",
+      "lastname": "Bongane",
+      "birthday": "1998-01-31",
+      "gender": "f",
+      "education": "graduate",
+      "company": "Opcito",
+      "jobExperience": 1,
+      "salary": "",
+      "profile": "flower.jpeg",
+      "id": 8
+    },
+    {
+      "firstname": "asd",
+      "lastname": "fgh",
+      "birthday": "1999-01-02",
+      "gender": "m",
+      "education": "diploma",
+      "company": "Opcito",
+      "jobExperience": 1,
+      "salary": "",
+      "profile": "images.jpeg",
+      "id": 10
+    },
+    {
+      "firstname": "R",
+      "lastname": "B",
+      "birthday": "1998-01-31",
+      "gender": "f",
+      "education": "graduate",
+      "company": "Opcito",
+      "jobExperience": 1,
+      "salary": "",
+      "profile": "flower.jpeg",
+      "id": 11
+    },
+    {
+      "firstname": "ABC",
+      "lastname": "D",
+      "birthday": "2000-09-04",
+      "gender": "f",
+      "education": "post graduate",
+      "company": "Opcito",
+      "jobExperience": 1,
+      "salary": "",
+      "profile": "girl.jpg",
+      "id": 12
+    }
+  ]
+}
